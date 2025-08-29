@@ -1,0 +1,13 @@
+# OS ფაილები
+.DS_Store
+Thumbs.db
+
+# რედაქტორის ფაილები
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# `.temp` და `.log` ფაილები
+*.log
+*.tmp
